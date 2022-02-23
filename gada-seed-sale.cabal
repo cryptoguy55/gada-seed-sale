@@ -33,6 +33,7 @@ library
   hs-source-dirs: src
   exposed-modules:
     GADA.Contracts.Trace
+    GADA.Contracts.Gada
     GADA.Contracts.Common
     GADA.Contracts.OffChain
     GADA.Contracts.OnChain
