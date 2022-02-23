@@ -1,9 +1,9 @@
 {-|
 Module      : Gada
-Description : Main module of the Staking Pool contract.
+Description : Main module of the Gada seed sale contract.
 Copyright   : P2P Solutions Ltd.
 License     : GPL-3
-Maintainer  : laurynas@adafinance.io
+Maintainer  : b.thierry1337@gmail.com
 Stability   : develop
 -}
 
